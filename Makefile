@@ -1,8 +1,3 @@
-# ═══════════════════════════════════════════════════════════════════════════
-# ONE STATE - MOUMEN MOD MENU - MAKEFILE
-# Theos Build Configuration
-# ═══════════════════════════════════════════════════════════════════════════
-
 THEOS_PACKAGE_SCHEME=rootless
 TARGET = iphone:clang:latest:13.0
 ARCHS = arm64 arm64e
