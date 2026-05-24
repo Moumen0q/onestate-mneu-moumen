@@ -6,7 +6,7 @@ GO_EASY_ON_ME = 1
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = OneStateMoumenMod
-OneStateMoumenMod_FILES = OneState_Mod_Menu.m
+OneStateMoumenMod_FILES = oneState_mod.m
 OneStateMoumenMod_CFLAGS = -fobjc-arc
 OneStateMoumenMod_FRAMEWORKS = UIKit Foundation
 OneStateMoumenMod_PRIVATE_FRAMEWORKS = 
