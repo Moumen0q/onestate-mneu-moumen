@@ -1,0 +1,35 @@
+Package: com.moumen.onestate.mod
+Name: One State - Moumen Mod Menu
+Version: 2.0
+Release: 1
+Author: Moumen
+Maintainer: Moumen
+Section: Tweaks
+Description: 
+ 🎮 One State - Moumen Professional Mod Menu
+ 
+ مميزات القائمة:
+ ✅ تعديل المال والنقود
+ ✅ رفع المستوى والـ XP
+ ✅ صحة ودرع كاملة
+ ✅ أسلحة وذخيرة لا محدودة
+ ✅ إعادة تحميل فورية
+ ✅ بدون ارتجاج
+ ✅ تعديل الضرر والسرعة
+ ✅ فتح جميع السيارات
+ ✅ تعديل FOV والكاميرا
+ ✅ وأكثر بكثير!
+ 
+ جميع المميزات تعمل مع One State v1.39.4+
+ 
+ Created by: Moumen
+ Based on: Critical Ops Template
+Depends: mobilesubstrate, preferenceloader
+Conflicts: 
+Replaces: 
+Architecture: iphoneos-arm64
+Icon: file:///Applications/OneState.app/Icon.png
+Depiction: https://moumen.dev/onestate
+Homepage: https://moumen.dev
+Sponsor: Moumen Dev <moumen@dev.com>
+
